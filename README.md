@@ -1,18 +1,4 @@
-# financial-loan-data-analysis
-End-to-end financial loan data analysis using Python, Pandas, and data visualization to track KPIs, analyze good vs bad loans, and identify trends across time, region, and borrower attributes.
-Great 👍
-I’ve reviewed your **problem statement, dataset, and notebook**, and based on what you’ve done, here is a **professional, GitHub-ready `README.md`** for your **Data Analytics project**.
 
-I’ve aligned it **exactly** with:
-
-* Your BRD (Business Requirement Document)
-* The KPIs you calculated
-* All the visualizations you created in the notebook
-
-
----
-
- 📊 Financial Loan Data Analysis Project
 
 📌 Project Overview
 
@@ -185,5 +171,3 @@ This comparison helps assess **credit risk and portfolio quality**.
 * Employment length and home ownership strongly influence loan approvals
 * Seasonal patterns exist in loan issuance
 
-
-Just tell me what you want next 👍
